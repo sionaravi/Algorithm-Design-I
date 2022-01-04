@@ -10,7 +10,7 @@
 **************************************************************************/
 
 import java.util.Scanner;
-public class ravi {
+public class compare_Two{
 
    public static void main(String[] args) {
     
