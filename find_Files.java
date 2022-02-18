@@ -1,8 +1,19 @@
+/**************************************************************************
+*                                                                         *
+*     Program Filename:  find_Files.java                                  *
+*     Author          :  Siona Ravi                                       *
+*     Date Written    :  December 01, 2019                                *
+*     Purpose         :  Finds files with their extensions and names      *
+*     Input from      :  Keyboard                                         *
+*     Output to       :  Screen                                           *
+*                                                                         *
+**************************************************************************/
+
 import java.util.Scanner;
 
 import java.io.*;
 
-public class ravi4
+public class find_Files
 {
    public static void main(String[] args) throws IOException
    {
@@ -61,4 +72,4 @@ public class ravi4
       }
    }
 }
-   //end class ravi4
+   //end class find_Files
