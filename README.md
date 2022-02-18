@@ -1,5 +1,4 @@
-# Java
+CSCIU 200
+USC - Upstate 
 
-
-This repository has all my java code files.
-These codes were written for CSCE 145 and CSCE 146.
+This repository has all my java files from Algorithm Design I. 
