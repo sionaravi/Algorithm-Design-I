@@ -1,6 +1,6 @@
 /**********************************************************************************
 *                                                                                 *
-*     Program Filename:  ravi2.java                                               *
+*     Program Filename:  initial_Deposit.java                                               *
 *     Author          :  Siona Ravi                                               *
 *     Date Written    :  October 17, 2019                                         *
 *     Purpose         :  To prompt the user to enter the amount of initial depoit *
@@ -8,8 +8,9 @@
 *     Output to       :  Screen                                                   *
 *                                                                                 *
 **********************************************************************************/
+
 import java.util.Scanner;
-public class ravi2 {
+public class initial_Deposit {
     public static void main(String[] args) {
     
         Scanner keyboard = new Scanner(System.in);
@@ -37,4 +38,4 @@ public class ravi2 {
         }
             
     }   //end main 
-}   //end class ravi2
+}   //end class initial_Deposit
