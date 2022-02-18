@@ -1,6 +1,6 @@
 /**********************************************************************************
 *                                                                                 *
-*     Program Filename:  Bank_Deposit.java                                               *
+*     Program Filename:  bank_Deposit.java                                               *
 *     Author          :  Siona Ravi                                               *
 *     Date Written    :  October 17, 2019                                         *
 *     Purpose         :  To prompt the user to enter the amount of initial depoit *
@@ -10,7 +10,7 @@
 **********************************************************************************/
 
 import java.util.Scanner;
-public class Bank_Deposit {
+public class bank_Deposit {
     public static void main(String[] args) {
     
         Scanner keyboard = new Scanner(System.in);
@@ -38,4 +38,4 @@ public class Bank_Deposit {
         }
             
     }   //end main 
-}   //end class Bank_Deposit
+}   //end class bank_Deposit
