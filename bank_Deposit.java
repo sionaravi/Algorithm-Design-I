@@ -1,6 +1,6 @@
 /**********************************************************************************
 *                                                                                 *
-*     Program Filename:  bank_Deposit.java                                               *
+*     Program Filename:  bank_Deposit.java                                        *
 *     Author          :  Siona Ravi                                               *
 *     Date Written    :  October 17, 2019                                         *
 *     Purpose         :  To prompt the user to enter the amount of initial depoit *
