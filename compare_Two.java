@@ -1,6 +1,6 @@
 /**************************************************************************
 *                                                                         *
-*     Program Filename:  compare_Two.java                                        *
+*     Program Filename:  compare_Two.java                                 *
 *     Author          :  Siona Ravi                                       *
 *     Date Written    :  October 03, 2019                                 *
 *     Purpose         :  To compare two words inputted by the user        *
