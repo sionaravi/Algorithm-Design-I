@@ -1,6 +1,6 @@
 /********************************************************************************
 *                                                                               *
-*     Program Filename:  ravi3.java                                             *
+*     Program Filename:  catch_Cat.java                                             *
 *     Author          :  Siona Ravi                                             *
 *     Date Written    :  November 08, 2019                                      *
 *     Purpose         :  To find if cat makes to the tree or gets caught        *
@@ -10,7 +10,7 @@
 *********************************************************************************/
 import java.util.Scanner;
 
-public class ravi3
+public class catch_Cat
 {
    public static void main(String[] args)
    {
@@ -75,4 +75,4 @@ public class ravi3
      }
    // end function main
 }
-// end class ravi3      
+// end class catch_Cat      
